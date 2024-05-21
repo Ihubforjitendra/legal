@@ -1,0 +1,10 @@
+torch
+transformers
+langchain
+chromadb
+pypdf
+sentence_transformers
+InstructorEmbedding
+pdf2image
+pdf2image
+boto3
